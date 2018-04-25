@@ -2,7 +2,7 @@ function chocolateBars() {
 
 }
 
-function addElementToBeginningofArray() {
+function addElementToBeginningOfArray() {
 
 }
 
